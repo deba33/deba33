@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deba33
+- 👋 Hi, I’m Debabrata Samal
 - 👀 I’m interested in android app development and blockchain technology.
 - 🌱 I’m currently learning Flutter and Dart.
 - 💞️ I’m looking to collaborate on flutter project.
