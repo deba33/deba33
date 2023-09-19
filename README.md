@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Debabrata Samal
-- 👀 I’m interested in android app development and blockchain technology.
-- 🌱 I’m currently learning Flutter and Dart.
-- 💞️ I’m looking to collaborate on flutter project.
+- 👀 I’m interested in flutter, Python, Data Analytics.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on flutter projects.
 - 📫 mail at deba.dbs.bkt@gmail.com
 
 <!---
